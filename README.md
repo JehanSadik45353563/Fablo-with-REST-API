@@ -1,2 +1,4 @@
 # Fablo-with-REST-API
-This script automates the setup of Hyperledger Fabric's essential software and includes Fablo, simplifying complex tasks and enabling interaction via a REST API. It streamlines Fabric usage, especially in managing networks and blockchain tasks, ensuring a smoother experience for creating and managing blockchain networks.
+This script automates the setup of Hyperledger Fabric's essential dependencies and includes Fablo which makes easy complex tasks and enables interaction with web app via a REST API.
+Fablo: https://github.com/hyperledger-labs/fablo
+REST: https://github.com/fablo-io/fablo-rest
